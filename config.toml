@@ -1,0 +1,34 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "AI Weekly News"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"  # Enables light/dark mode toggle
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowToc = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = true
+  ShowWordCount = false
+  disableScrollToTop = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "OpenAI"
+    url = "/categories/openai/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Regulations"
+    url = "/categories/regulations/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Research"
+    url = "/categories/research/"
+    weight = 3
