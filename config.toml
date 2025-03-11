@@ -19,13 +19,13 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "OpenAI"
-    url = "/categories/openai/"
+    name = "AI"
+    url = "/categories/AI/"
     weight = 1
 
   [[menu.main]]
-    name = "Regulations"
-    url = "/categories/regulations/"
+    name = "Sport"
+    url = "/categories/sport/"
     weight = 2
 
   [[menu.main]]
