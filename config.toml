@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "AI Weekly News"
+title = "AI News Summarizer"
 theme = "PaperMod"
 
 [params]
@@ -32,3 +32,10 @@ theme = "PaperMod"
     name = "Research"
     url = "/categories/research/"
     weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      attribute = true
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI Weekly News</title>
+    <title>AI News Summarizer</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on AI Weekly News</description>
-    <generator>Hugo -- 0.134.0</generator>
+    <description>Recent content on AI News Summarizer</description>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekly AI News Summary</title>
+      <link>//localhost:1313/posts/weekly-ai-news-2/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/weekly-ai-news-2/</guid>
+      <description>Get a cynical, yet informative take on the recent AI news—CoreWeave&amp;#39;s multi-billion acquisitions, Google&amp;#39;s ambiguous AI mode, and OpenAI&amp;#39;s revolutionary tools. Are these truly &amp;#39;game-changing&amp;#39; or just another overhyped AI gimmick? Let&amp;#39;s wade through the buzzwords and see what&amp;#39;s really going on in the world of AI.</description>
+    </item>
+    <item>
+      <title>Weekly AI News Summary - Week 11</title>
       <link>//localhost:1313/posts/weekly-ai-news-1/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/weekly-ai-news-1/</guid>
-      <description>Delve into the world of AI news where acquisitions, new models, and fancy tools dominate the headlines. But are these really groundbreaking or just hyped up? Let&amp;#39;s take a sarcastic journey through the latest AI innovations and see if they truly live up to the buzz.</description>
+      <description>Navigating through the maze of AI news this week: acquisitions, innovative models, and questionable benchmarks. Are they really as revolutionary as they claim to be?</description>
     </item>
     <item>
       <title>Test Post</title>
       <link>//localhost:1313/posts/firstpost/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/firstpost/</guid>
-      <description>&lt;p&gt;This is a test post.&lt;/p&gt;</description>
+      <description>This is a test post.</description>
     </item>
   </channel>
 </rss>
