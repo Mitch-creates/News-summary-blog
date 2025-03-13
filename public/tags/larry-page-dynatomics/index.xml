@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Larry Page Dynatomics on AI News Summarizer</title>
+    <link>//localhost:1313/tags/larry-page-dynatomics/</link>
+    <description>Recent content in Larry Page Dynatomics on AI News Summarizer</description>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/larry-page-dynatomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Ai News - Week 11</title>
+      <link>//localhost:1313/posts/weekly-ai-news-1/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/weekly-ai-news-1/</guid>
+      <description>Embark on a journey through the dynamic world of AI with Google&amp;#39;s Gemma 3 model, OpenAI&amp;#39;s Agent Tools, CoreWeave&amp;#39;s contract with OpenAI, and more! Delve into the future of AI developments with innovative tools, groundbreaking models, and strategic partnerships—all shaping the landscape of technology and human interaction.</description>
+    </item>
+  </channel>
+</rss>
