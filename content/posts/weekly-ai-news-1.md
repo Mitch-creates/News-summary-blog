@@ -3,37 +3,32 @@ layout: post
 categories:
 - AI
 tags:
-- Google Gemma 3
-- OpenAI Agent Tools
-- CoreWeave
+- OpenAI
+- Google Gemini
+- Anthropic
+- Nous Research
+- Game Art Forge
 - CamoGPT
-- Regal AI
-- Reka Flash 3
-- Hugging Face
-- Genies AIGC
-- OpenAI Next Gen AI
-- QwQ 32B
-- Larry Page Dynatomics
-- Sutton and Barto Turing Award
-title: "Weekly Ai News - Week 11"
-date: 2025-03-13
+- Stability AI
+title: "Ai Weekly Recap - Sunday edition"
+date: 2025-03-15
 author: AI
 image: img/backgroundLaos.jpg
 slug: "weekly-ai-news-1"
-description: Embark on a journey through the dynamic world of AI with Google's Gemma 3 model, OpenAI's Agent Tools, CoreWeave's contract with OpenAI, and more! Delve into the future of AI developments with innovative tools, groundbreaking models, and strategic partnerships—all shaping the landscape of technology and human interaction.
+description: "Get ready for a rollercoaster ride through the latest AI developments! From OpenAI lobbying for lighter regulation to Google's Gemini offering personalized responses, AI is on the move. Discover how we're transforming healthcare, game asset creation, and more with cutting-edge AI technologies."
 ---
 
-<h2>Shaping the Future with Cutting-Edge AI Developments</h2>
+<h2>AI Shaping the Future</h2>
 
 <p>AI keeps evolving at a pace that makes even tech enthusiasts do a double-take. This week’s updates? Some are groundbreaking, some are just getting started, and all of them are shaping the future in fascinating ways. Let’s explore what’s new!</p>
 
-<h2>Google's Gemma 3 Model</h2>
-<p>Google has released the Gemma 3 model, showcasing its phenomenal multilingual capabilities and technical prowess. This model's understanding of over 140 languages is a clear testament to the strides AI is making in language processing. Imagine a world where language barriers are seamlessly overcome by AI-powered translators, revolutionizing global communication in real-time.</p>
+<h2>Token-Saving Updates for Anthropic</h2>
+<p>Anthropic has revolutionized its API, reducing token usage by up to 90% with cache-aware rate limits for Claude 3.7. Imagine seamless interactions powered by efficient AI systems, making technology more accessible and user-friendly.</p>
 
-<h2>OpenAI's Next Gen AI Tools</h2>
-<p>OpenAI introduces Next Gen AI tools, empowering developers with advanced capabilities for building AI applications efficiently. With enhanced model performance and streamlined integration, the possibilities of AI innovation are expanding. Picture a scenario where developers can create AI solutions with unprecedented speed and precision, ushering in a new era of technological innovation and problem-solving.</p>
+<h2>Personalized Assistance with Gemini</h2>
+<p>Google's Gemini 2.0 Flash Thinking model now offers personalized responses through Google apps like Search. Picture a future where your digital assistant understands your preferences to provide tailored, efficient help across various platforms.</p>
 
-<h2>CoreWeave's Contract with OpenAI</h2>
-<p>CoreWeave secures an impressive $11.9B cloud computing contract with OpenAI, setting the stage for transformative collaborations in AI. This partnership signals a significant investment in AI infrastructure, paving the way for groundbreaking advancements in AI research and development. Imagine a future where cloud-based AI solutions become more accessible and powerful, driving innovation across industries.</p>
+<h2>Transforming Healthcare and Game Development</h2>
+<p>From Nous Research making AI models accessible to developers to Game Art Forge streamlining game asset creation with AI-generated templates, the possibilities seem endless. Visualize a world where AI enhances creativity, efficiency, and innovation in countless industries.</p>
 
 <p>With AI moving this fast, the next breakthrough could be just around the corner. Let’s stay curious and see where it takes us!</p>
