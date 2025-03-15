@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://weeklynews.dev/"
 languageCode = "en-us"
 title = "AI News Summarizer"
 theme = "PaperMod"
@@ -24,13 +24,13 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Sport"
-    url = "/categories/sport/"
+    name = "Tech"
+    url = "/categories/tech/"
     weight = 2
 
   [[menu.main]]
-    name = "Research"
-    url = "/categories/research/"
+    name = "Science"
+    url = "/categories/science/"
     weight = 3
 
 [markup]
