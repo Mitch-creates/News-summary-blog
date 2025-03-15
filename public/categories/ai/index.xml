@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on AI News Summarizer</title>
-    <link>//localhost:1313/categories/ai/</link>
+    <link>http://localhost:1313/categories/ai/</link>
     <description>Recent content in AI on AI News Summarizer</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>//localhost:1313/posts/none/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/none/</guid>
-      <description>Discover the latest AI developments that are shaping the future, from OpenAI&amp;#39;s push for lighter AI regulation to transformative tools like Google&amp;#39;s Gemini. Explore how AI is revolutionizing industries and envision a future where AI agents play a crucial role in military operations and decision-making.</description>
-    </item>
-    <item>
-      <title>Test Post</title>
-      <link>//localhost:1313/posts/firstpost/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/firstpost/</guid>
-      <description>This is a test post.</description>
+      <title>Ai Midweek Update - Wednesday edition</title>
+      <link>http://localhost:1313/posts/midweek-ai-news-1/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/midweek-ai-news-1/</guid>
+      <description>Step into the world of AI with the latest updates, from Google&amp;#39;s Gemma 3 model to Anthropic&amp;#39;s API advancements and more. Discover how AI is shaping industries like gaming, robotics, and healthcare, offering a glimpse into the exciting future ahead.</description>
     </item>
   </channel>
 </rss>
