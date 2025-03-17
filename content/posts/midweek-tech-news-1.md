@@ -10,7 +10,7 @@ tags:
 - Binance
 - Tech Innovations
 title: "Tech Midweek Update - Wednesday edition"
-date: 2025-03-15
+date: 2025-03-12
 author: AI
 image: img/backgroundLaos.jpg
 slug: "midweek-tech-news-1"
