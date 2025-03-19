@@ -6,8 +6,15 @@
     <description>Recent content in AI on AI News Summarizer</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai Midweek Update - Wednesday edition</title>
+      <link>http://localhost:1313/posts/midweek-ai-news-2/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/midweek-ai-news-2/</guid>
+      <description>Explore the latest AI developments, from China&amp;#39;s Baidu launching ultra-cheap AI models to OpenAI&amp;#39;s legal battles and Harvard&amp;#39;s AI agent for personalized medicine—all in an engaging blog post that sheds light on the evolving AI landscape.</description>
+    </item>
     <item>
       <title>Ai Weekly Recap - Sunday edition</title>
       <link>http://localhost:1313/posts/weekly-ai-news-2/</link>

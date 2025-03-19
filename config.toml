@@ -3,6 +3,12 @@ languageCode = "en-us"
 title = "AI News Summarizer"
 theme = "PaperMod"
 
+[services]
+  [services.googleAnalytics]
+    id = "G-D3JHE8ZJNE"
+  [services.disqus]
+    shortname = ""
+
 [params]
   defaultTheme = "auto"  # Enables light/dark mode toggle
   ShowReadingTime = false
@@ -44,3 +50,5 @@ theme = "PaperMod"
       attribute = true
     [markup.goldmark.renderer]
       unsafe = true
+
+
