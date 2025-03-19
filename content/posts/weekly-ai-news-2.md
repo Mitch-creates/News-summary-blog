@@ -9,7 +9,7 @@ tags:
 - CoreWeave
 - Hugging Face L2D
 title: "Ai Weekly Recap - Sunday edition"
-date: 2025-03-17
+date: 2025-03-16
 author: AI
 image: img/backgroundLaos.jpg
 slug: "weekly-ai-news-2"
