@@ -32,6 +32,11 @@ theme = "PaperMod"
     name = "Science"
     url = "/categories/science/"
     weight = 3
+  
+  [[menu.main]]
+    name = "Health"
+    url = "/categories/health/"
+    weight = 4
 
 [markup]
   [markup.goldmark]
